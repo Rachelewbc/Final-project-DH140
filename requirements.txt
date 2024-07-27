@@ -1,10 +1,6 @@
 pandas
-collections
 networkx
 matplotlib
 numpy
-string
 bokeh
 spacy
-re
-math
