@@ -4,5 +4,4 @@ matplotlib
 numpy
 bokeh
 spacy
-spacy-transformers
 openpyxl
